@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "b3e652a1-72fc-4441-b72a-7f4fd6791c69")
 	(paper "A4")
+	(title_block
+		(title "Solder Stantion Esphome")
+		(date "2024-12-09")
+		(rev "a0")
+		(company "avatarsd LLC")
+		(comment 1 "by SD & MRK")
+	)
 	(lib_symbols
 		(symbol "RF_Module:ESP32-WROOM-32"
 			(exclude_from_sim no)
