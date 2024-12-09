@@ -235,7 +235,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "solder_fp"
+    ],
     "pinned_symbol_libs": [
       "solder_sym"
     ]
@@ -388,6 +390,10 @@
     [
       "b3e652a1-72fc-4441-b72a-7f4fd6791c69",
       "Root"
+    ],
+    [
+      "92df9014-77de-4e7c-b273-b94acdea58be",
+      "Type-C PD"
     ]
   ],
   "text_variables": {}
