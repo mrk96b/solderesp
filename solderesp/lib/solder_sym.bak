@@ -1,0 +1,11192 @@
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "BAT54A"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 3.81 2.54 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${DEVICE}"
+			(at 3.81 -2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SOT95P240X130-3N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Common Anode Schottky Diode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "BAT54A"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Device" "BAT54A"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "SOT95P240X130-3N"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "SOT23 3-Leads, Pitch 0.95mm - Body 1.3x2.9mm, IPC Medium Density"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "30V"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Power" "200mA"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "Dual Common Anode Small Signal Schottky Diode"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FAIRCHILD SEMICONDUCTOR"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BAT54A"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "SOT23-3"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentHeight" "1.30mm"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}BAT54A.pdf"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "17.09.2009"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "27.05.2010"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Diodes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*SOT95P240X130-3N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAT54A_1_0"
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 5.08 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 1.524) (xy 4.064 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.572 1.524) (xy 4.064 1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.572 1.524) (xy 4.572 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -1.524) (xy 4.572 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -1.27) (xy 5.08 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.048 -1.524) (xy 4.572 0) (xy 3.048 1.524) (xy 3.048 -1.524)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(text "1"
+				(at 6.858 0.254 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left bottom)
+				)
+			)
+			(text "3"
+				(at 0 0.254 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left bottom)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.54)
+				(name "COMA"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+		(symbol "BAT54A_2_0"
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 5.08 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 1.524) (xy 4.064 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.572 1.524) (xy 4.064 1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.572 1.524) (xy 4.572 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -1.524) (xy 4.572 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -1.27) (xy 5.08 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.048 -1.524) (xy 4.572 0) (xy 3.048 1.524) (xy 3.048 -1.524)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(text "2"
+				(at 6.858 0.254 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left bottom)
+				)
+			)
+			(text "3"
+				(at 0 0.254 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left bottom)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.54)
+				(name "COMA"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "BC847BV"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "T"
+			(at 13.462 1.778 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${DEVICE}"
+			(at 18.542 -2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SOTFL50P160X60-6N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "45V, 100mA NPN General Purpose Double Transistor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "BC847BV"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Device" "BC847BV"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "SOTFL50P160X60-6N"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "SOTFL (SOT666), 0.50mm, Pitch; 6 Pin, 1.20mm W X 1.60mm L X 0.60mm H Body, IPC Medium Density"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "45V 100mA NPN General Purpose Double Transistor"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "NXP SEMICONDUCTORS"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BC847BV"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "6"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "SOT666"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentHeight" "0.6mm"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}BC847BV.pdf"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "01.12.2011"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "01.12.2011"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Transistors"
+			(at -0.508 5.588 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*SOTFL50P160X60-6N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BC847BV_1_0"
+			(polyline
+				(pts
+					(xy 2.286 0) (xy 4.318 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.318 -0.508) (xy 6.35 -2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.318 0.508) (xy 6.35 2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.588 -0.762) (xy 4.928 -1.676) (xy 6.121 -1.829) (xy 5.588 -0.762)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 -1.778) (xy 4.572 -1.778) (xy 4.572 1.778) (xy 4.064 1.778) (xy 4.064 -1.778)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 4.826 0)
+				(radius 2.54)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "1"
+				(at 6.858 -1.778 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left top)
+				)
+			)
+			(text "2"
+				(at 0.762 2.032 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left top)
+				)
+			)
+			(text "6"
+				(at 6.858 3.81 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left top)
+				)
+			)
+			(pin passive line
+				(at 6.35 -5.08 90)
+				(length 3.048)
+				(name "E"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.286)
+				(name "B"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 5.08 270)
+				(length 3.048)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+		(symbol "BC847BV_2_0"
+			(polyline
+				(pts
+					(xy 2.286 0) (xy 4.318 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.318 -0.508) (xy 6.35 -2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.318 0.508) (xy 6.35 2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.588 -0.762) (xy 4.928 -1.676) (xy 6.121 -1.829) (xy 5.588 -0.762)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 -1.778) (xy 4.572 -1.778) (xy 4.572 1.778) (xy 4.064 1.778) (xy 4.064 -1.778)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 4.826 0)
+				(radius 2.54)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "3"
+				(at 6.858 3.81 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left top)
+				)
+			)
+			(text "4"
+				(at 6.858 -1.778 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left top)
+				)
+			)
+			(text "5"
+				(at 0.762 2.032 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+					(justify left top)
+				)
+			)
+			(pin passive line
+				(at 6.35 5.08 270)
+				(length 3.048)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 -5.08 90)
+				(length 3.048)
+				(name "E"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.286)
+				(name "B"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "CC0402_1NF_50V_10%_X7R"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 3.81 3.048 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "CAPC1005X55N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Non-polarised capacitor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0402_1NF_50V_10%_X7R"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "CAPC1005X55N"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1nF"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "Not Recommended"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50V"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TC" "X7R"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "SMD Multilayer Chip Ceramic Capacitor"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GENERIC"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0402_1NF_50V_10%_X7R"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0402"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "PHYCOMP"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "223858715623"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "0.55mm"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}CC0402_X7R_PHYCOMP.pdf"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "03.12.2007"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "03.12.2007"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Capacitors SMD"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*CAPC1005X55N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "CC0402_1NF_50V_10%_X7R_1_0"
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 3.302 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.302 -2.032) (xy 3.302 2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.318 2.032) (xy 4.318 -2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 4.318 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "CC0805_1UF_35V_20%_X7R"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 3.81 3.048 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "CAPC2012X140N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Non-polarised capacitor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CC0805_1UF_35V_20%_X7R"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "CAPC2012X140N"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1uF"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "Not Recommended"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "35V"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TC" "X7R"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20%"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "SMD Multilayer Chip Ceramic Capacitor"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GENERIC"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0805_1UF_35V_20%_X7R"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0805"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "TAIYO YUDEN"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "GMK212B7105MG-T"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "1.35mm"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}CC0805_X7R_TAIYO-YUDEN_HIGH-VALUE.pdf"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "22.06.2011"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "22.06.2011"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Capacitors SMD"
+			(at -0.508 2.286 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*CAPC2012X140N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "CC0805_1UF_35V_20%_X7R_1_0"
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 3.302 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.302 -2.032) (xy 3.302 2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.318 2.032) (xy 4.318 -2.032)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 4.318 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "CH224K"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at -7.62 6.35 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${DEVICE}"
+			(at -7.62 -11.43 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:ESSOP-10"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Device" "CH221K"
+			(at -13.208 -11.43 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*ESSOP-10*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "CH224K_1_0"
+			(rectangle
+				(start 6.35 6.35)
+				(end -7.62 -8.89)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at 11.43 -7.62 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 5.08 0)
+				(length 5.08)
+				(name "Vdd"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 11.43 5.08 180)
+				(length 5.08)
+				(name "PG"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 11.43 0 180)
+				(length 5.08)
+				(name "cfg2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 11.43 -2.54 180)
+				(length 5.08)
+				(name "cfg3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 -5.08 0)
+				(length 5.08)
+				(name "D+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 -7.62 0)
+				(length 5.08)
+				(name "D-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 -2.54 0)
+				(length 5.08)
+				(name "CC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 0 0)
+				(length 5.08)
+				(name "CC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 2.54 0)
+				(length 5.08)
+				(name "Vbus"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 11.43 2.54 180)
+				(length 5.08)
+				(name "cfg1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "Conn_02x06_Odd_Even"
+		(pin_names
+			(offset 1.016) hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 1.27 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x06_Odd_Even"
+			(at 1.27 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "connector"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Connector*:*_2x??_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Conn_02x06_Odd_Even_1_1"
+			(rectangle
+				(start -1.27 -7.493)
+				(end 0 -7.747)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 -4.953)
+				(end 0 -5.207)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 -2.413)
+				(end 0 -2.667)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 0.127)
+				(end 0 -0.127)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 2.667)
+				(end 0 2.413)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 5.207)
+				(end 0 4.953)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 6.35)
+				(end 3.81 -8.89)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(rectangle
+				(start 3.81 -7.493)
+				(end 2.54 -7.747)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 -4.953)
+				(end 2.54 -5.207)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 -2.413)
+				(end 2.54 -2.667)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 0.127)
+				(end 2.54 -0.127)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 2.667)
+				(end 2.54 2.413)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 5.207)
+				(end 2.54 4.953)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 5.08 0)
+				(length 3.81)
+				(name "Pin_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -5.08 180)
+				(length 3.81)
+				(name "Pin_10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -7.62 0)
+				(length 3.81)
+				(name "Pin_11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -7.62 180)
+				(length 3.81)
+				(name "Pin_12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 3.81)
+				(name "Pin_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 2.54 180)
+				(length 3.81)
+				(name "Pin_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 3.81)
+				(name "Pin_5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name "Pin_6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 3.81)
+				(name "Pin_7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -5.08 0)
+				(length 3.81)
+				(name "Pin_9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "Conn_Pin_4p_Fan"
+		(pin_names
+			(offset 1.016) hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_Pin_4p_Fan"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "connector"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Connector*:*_1x??_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Conn_Pin_4p_Fan_1_1"
+			(rectangle
+				(start -1.27 -4.953)
+				(end 0 -5.207)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 -2.413)
+				(end 0 -2.667)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 0.127)
+				(end 0 -0.127)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 2.667)
+				(end 0 2.413)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -1.27 3.81)
+				(end 1.27 -6.35)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 3.81)
+				(name "Pin_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 3.81)
+				(name "Pin_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 3.81)
+				(name "Pin_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -5.08 0)
+				(length 3.81)
+				(name "Pin_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "Conn_Socket_4p_Fan"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_Socket_4p_Fan"
+			(at 0 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 2.54 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Pin Header female with pin space 2.54mm. Pin Count -4"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Pin Header"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "PinSocket_1x04_P2.54mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Conn_Socket_4p_Fan_0_1"
+			(rectangle
+				(start -1.27 5.08)
+				(end 1.905 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(arc
+				(start -0.508 -3.81)
+				(mid -0.3592 -4.1692)
+				(end 0 -4.318)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -0.508 -1.27)
+				(mid -0.3592 -1.6292)
+				(end 0 -1.778)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -0.508 1.27)
+				(mid -0.3592 0.9108)
+				(end 0 0.762)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -0.508 3.81)
+				(mid -0.3592 3.4508)
+				(end 0 3.302)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 -3.302)
+				(mid -0.3592 -3.4508)
+				(end -0.508 -3.81)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 -0.762)
+				(mid -0.3592 -0.9108)
+				(end -0.508 -1.27)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -3.81) (xy -0.508 -3.81)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -0.508 -1.27)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.27) (xy -0.508 1.27)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.81) (xy -0.508 3.81)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -4.318) (xy 1.016 -4.318)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -3.302) (xy 1.016 -3.302)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -1.778) (xy 1.016 -1.778)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -0.762) (xy 1.016 -0.762)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0.762) (xy 1.016 0.762)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 1.778) (xy 1.016 1.778)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 3.302) (xy 1.016 3.302)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 4.318) (xy 1.016 4.318)
+				)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 1.778)
+				(mid -0.3592 1.6292)
+				(end -0.508 1.27)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0 4.318)
+				(mid -0.3592 4.1692)
+				(end -0.508 3.81)
+				(stroke
+					(width 0.25)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "Conn_Socket_4p_Fan_1_1"
+			(pin passive line
+				(at -3.81 3.81 0)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 1.27 0)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 -1.27 0)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 -3.81 0)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "Connector 3-Pin Female avatarsd custom (Altium Display 1)"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 5.08 -12.7 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${FAMILY}"
+			(at 3.81 -0.762 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:HU-3R_AVATARSD_CUSTOM_V1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Connector 3 Female"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*HU-3R_avatarsd_custom_v1*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Connector 3-Pin Female avatarsd custom (Altium Display 1)_1_0"
+			(polyline
+				(pts
+					(xy 0 -7.62) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -5.08) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.54 -7.62) (xy 2.54 -8.0408) (xy 3.1085 -8.382) (xy 3.81 -8.382)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.54 -5.08) (xy 2.54 -5.5008) (xy 3.1085 -5.842) (xy 3.81 -5.842)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.54 -2.54) (xy 2.54 -2.9608) (xy 3.1085 -3.302) (xy 3.81 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 3.81 -6.858) (xy 3.1085 -6.858) (xy 2.54 -7.1991) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 3.81 -4.318) (xy 3.1085 -4.318) (xy 2.54 -4.6591) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 3.81 -1.778) (xy 3.1085 -1.778) (xy 2.54 -2.1191) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 7.62 0)
+				(end 0 -10.16)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -5.08 -5.08 0)
+				(length 5.08)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "Connector 3-Pin Female avatarsd custom (Altium Display 2)"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 5.08 -12.7 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${FAMILY}"
+			(at 3.81 -0.762 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "reg_lib.PcbLib:HU-3R_avatarsd_custom_v1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Connector 3 Female"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*HU-3R_avatarsd_custom_v1*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Connector 3-Pin Female avatarsd custom (Altium Display 2)_1_0"
+			(polyline
+				(pts
+					(xy 0 -7.62) (xy 1.524 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -5.08) (xy 1.524 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 1.524 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.524 -7.62) (xy 1.524 -8.0408) (xy 1.8651 -8.382) (xy 2.286 -8.382)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.524 -5.08) (xy 1.524 -5.5008) (xy 1.8651 -5.842) (xy 2.286 -5.842)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.524 -2.54) (xy 1.524 -2.9608) (xy 1.8651 -3.302) (xy 2.286 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.286 -8.382) (xy 2.7068 -8.382) (xy 3.048 -8.0408) (xy 3.048 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.286 -6.858) (xy 1.8651 -6.858) (xy 1.524 -7.1991) (xy 1.524 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.286 -5.842) (xy 2.7068 -5.842) (xy 3.048 -5.5008) (xy 3.048 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.286 -4.318) (xy 1.8651 -4.318) (xy 1.524 -4.6591) (xy 1.524 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.286 -3.302) (xy 2.7068 -3.302) (xy 3.048 -2.9608) (xy 3.048 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 2.286 -1.778) (xy 1.8651 -1.778) (xy 1.524 -2.1191) (xy 1.524 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 3.048 -7.62) (xy 3.048 -7.1991) (xy 2.7068 -6.858) (xy 2.286 -6.858)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 3.048 -5.08) (xy 3.048 -4.6591) (xy 2.7068 -4.318) (xy 2.286 -4.318)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 3.048 -2.54) (xy 3.048 -2.1191) (xy 2.7068 -1.778) (xy 2.286 -1.778)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 7.62 0)
+				(end 0 -10.16)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -5.08 0)
+				(length 5.08)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "LED_OSRAM_LSR976"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "LD"
+			(at -1.27 2.54 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${COLOR}"
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "LED_OSRAM_LSR976"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "LED Red 1C 2A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "LED_OSRAM_LSR976"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Color" "Super Red"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "LED_OSRAM_LSR976"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "Super Red Chip LED, 2-Leads, Body 2 x1.25mm, IPC Medium Density"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "Surface Mount Super Red LED (0805 Case)"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OSRAM"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "LSR976"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0805"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentHeight" "0.9mm"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}LED_OSRAM_LSR976.pdf"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "18.05.2010"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "18.05.2010"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "LEDs & Displays"
+			(at -4.318 3.81 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*LED_OSRAM_LSR976*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LED_OSRAM_LSR976_1_0"
+			(polyline
+				(pts
+					(xy -1.27 0) (xy 1.27 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 1.524) (xy 0.762 -1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.286) (xy 2.032 3.556)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 2.032) (xy 3.302 3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.762 -1.524) (xy 0.762 0) (xy -0.762 1.524) (xy -0.762 -1.524)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 3.556) (xy 1.27 3.302) (xy 1.778 2.794) (xy 2.032 3.556)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.302 3.302) (xy 2.54 3.048) (xy 3.048 2.54) (xy 3.302 3.302)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(text "Red"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.4478 1.4478)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 0 180)
+				(length 2.54)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 0 0)
+				(length 2.54)
+				(name "A"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "LM-HSP061-4M10"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 5.08 2.54 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${DEVICE}"
+			(at 5.08 -15.24 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Package_SON:USON-10_2.5x1.0mm_P0.5mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TVS Diodes Low Capacitance DFN2510P10"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Device" ""
+			(at -0.508 -15.494 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "LM-HSP061-4M10"
+			(at -0.508 -15.494 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "DFN2510P10"
+			(at -0.508 -15.494 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*XBP14E5UFNG*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LM-HSP061-4M10_1_0"
+			(rectangle
+				(start 25.4 2.54)
+				(end 5.08 -12.7)
+				(stroke
+					(width 0.254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 5.08)
+				(name "I/O_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 30.48 0 180)
+				(length 5.08)
+				(name "NC_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -2.54 0)
+				(length 5.08)
+				(name "I/O_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -5.08 0)
+				(length 5.08)
+				(name "GND_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -7.62 0)
+				(length 5.08)
+				(name "I/O_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -10.16 0)
+				(length 5.08)
+				(name "I/O_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 30.48 -10.16 180)
+				(length 5.08)
+				(name "NC_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 30.48 -7.62 180)
+				(length 5.08)
+				(name "NC_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 30.48 -5.08 180)
+				(length 5.08)
+				(name "GND_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 30.48 -2.54 180)
+				(length 5.08)
+				(name "NC_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "LM358AD"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 6.604 -1.27 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "LM358AD"
+			(at 6.604 -10.414 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:SOP65P640X120-8N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power Dual Operational Amplifier"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Published" "24-Aug-2001"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "13-Apr-2006"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionNote" "IPC-7351 Footprint Added."
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DatasheetVersion" "Jun-1998"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageVersion" "Dec-2002"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageReference" "SO8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Publisher" "Altium Limited"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "8-Pin Small Outline Integrated Circuit 1.27 mm Pitch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Code_JEDEC" "MS-012-AA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Code_IPC" "SOIC127P600-8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1Description" "Manufacturer Link"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1URL" "http://www.st.com/"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2Description" "Datasheet"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2URL" "http://www.st.com/stonline/products/literature/ds/2163/lm358.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*SOP65P640X120-8N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LM358AD_0_0"
+			(pin power_in line
+				(at 5.08 -15.24 90)
+				(length 5.08)
+				(name "V-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 5.08 5.08 270)
+				(length 5.08)
+				(name "V+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM358AD_1_0"
+			(polyline
+				(pts
+					(xy 0 -10.16) (xy 10.16 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0) (xy 0 -10.16)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0) (xy 10.16 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 -7.62) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 -2.54) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.778 -6.858) (xy 1.778 -8.382)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -7.62) (xy 5.08 -10.16)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 5.08 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "A"
+				(at 3.048 -6.35 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+				)
+			)
+			(pin output line
+				(at 15.24 -5.08 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "IN-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "IN+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM358AD_2_0"
+			(polyline
+				(pts
+					(xy 0 -10.16) (xy 10.16 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0) (xy 0 -10.16)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0) (xy 10.16 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 -7.62) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 -2.54) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.778 -6.858) (xy 1.778 -8.382)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -7.62) (xy 5.08 -10.16)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 5.08 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "B"
+				(at 3.048 -6.35 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+				)
+			)
+			(pin input line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "IN+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "IN-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 15.24 -5.08 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "LMC555CM"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "IC"
+			(at 10.16 1.27 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${DEVICE}"
+			(at 10.16 -21.59 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:SOP65P400X110-8N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CMOS Timer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "LMC555CM/NOPB"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Device" "LMC555CM/NOPB"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "SOIC127P600X175-8N"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "SOIC 8, Pitch 1.27mm - Body 4x5mm, IPC Medium Density"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "CMOS Timer"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "NATIONAL SEMICONDUCTOR"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "LMC555CM/NOPB"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "8"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "SOIC8"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentHeight" "1.75mm"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}LMC555C-NOPB.pdf"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "12.04.2010"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "12.04.2010"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Analog & Interface"
+			(at -5.588 2.54 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*SOP65P400X110-8N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LMC555CM_1_0"
+			(rectangle
+				(start 20.32 0)
+				(end 0 -20.32)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at 25.4 -17.78 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -12.7 0)
+				(length 5.08)
+				(name "~{TRIG}"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 25.4 -7.62 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "~{RESET}"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -17.78 0)
+				(length 5.08)
+				(name "CONT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -10.16 0)
+				(length 5.08)
+				(name "THRES"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "DISCH"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 25.4 -15.24 180)
+				(length 5.08)
+				(name "V+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "LQW15AN2N2D10D"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "L"
+			(at 0.508 -3.302 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "LQW15AN2N2D10D"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:Murata_LQW15AN_00-W0_6-0_1_MFG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wire Wound RF Inductor 2.2nH ±0.5nH 1000mA 0.027Ω 0402 (1005)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet Path" "datasheets/Ind_Murata_LQW15AN2N2D10D_eec.pdf"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Automotive" "No"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1Description" "Upverter"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1URL" "https://upverter.com/part/id/e732c2585f92e4db/"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2Description" "Datasheet"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2URL" "https://www.murata.com/en-us/products/productdetail?partno=LQW15AN2N2D10%23"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Composition" "Wirewound"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Core Material" "Non-Magnetic"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.6mm"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Inductance" "2.2nH"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Lead Free" "Yes"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "LQW15AN_00-W0.6-0.1"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "LQW15AN2N2D10D"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Q Factor" "25"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Rms Current" "1000mA"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "TRUE"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Self Resonant Frequency" "14GHz"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Series Resistance" "0.027Ω"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digi-Key"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" "Mouser"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Symbol Hash" "725321dda6339637d4d059423bc1c3ca2310dcf8e63e0fae46eb55451bd7e3dd"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "-55°C to +125°C"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature Range High" "+125°C"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature Range Low" "-55°C"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Test Frequency" "100MHz"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.5nH"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "2.2nH"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Verification Version" "0.0.0.3"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "helpURL" "https://upverter.com/part/id/e732c2585f92e4db/"
+			(at -0.508 1.27 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*Murata_LQW15AN_00-W0_6-0_1_MFG*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LQW15AN2N2D10D_1_0"
+			(polyline
+				(pts
+					(xy 1.27 0) (xy 0.762 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 8.89 0) (xy 9.144 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 3.81 0)
+				(mid 2.54 1.27)
+				(end 1.27 0)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 6.35 0)
+				(mid 5.08 1.27)
+				(end 3.81 0)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 8.89 0)
+				(mid 7.62 1.27)
+				(end 6.35 0)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 0 180)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "NCP18XW152J03RB"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 7.62 -4.064 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "NCP18XW152J03RB"
+			(at 0.508 4.318 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:Murata_NCP18-0_15_MFG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*Murata_NCP18-0_15_MFG*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "NCP18XW152J03RB_1_0"
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 4.318 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 5.842 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.588 -2.286) (xy 3.81 -2.286)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.588 -2.286) (xy 12.446 2.286)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.842 1.27) (xy 7.112 -1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 7.112 -1.27) (xy 8.382 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 8.382 1.27) (xy 9.652 -1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 9.652 -1.27) (xy 10.922 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.922 1.27) (xy 12.192 -1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 12.192 -1.27) (xy 12.7 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 12.7 0) (xy 13.462 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 5.08)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 0 180)
+				(length 5.08)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "OR_OR"
+		(power)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(property "Reference" "CFG"
+			(at 2.54 2.54 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "OR_OR"
+			(at 2.54 0 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:OR_OR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*OR_OR*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "OR_OR_1_0"
+			(polyline
+				(pts
+					(xy 0 -1.27) (xy 0 -2.54) (xy 0 -1.27)
+				)
+				(stroke
+					(width 0.762)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 1.27 -3.81) (xy -1.27 -3.81) (xy 0 -2.54)
+				)
+				(stroke
+					(width 0.762)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 2.794) (xy 1.27 3.81) (xy -1.27 3.81) (xy 0 2.794)
+				)
+				(stroke
+					(width 0.762)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 0) (xy 0 1.27) (xy 1.27 0) (xy 0 -1.27) (xy -1.27 0) (xy -1.27 0)
+				)
+				(stroke
+					(width 0.762)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 5.08)
+				(name "0"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "0"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 7.62 270)
+				(length 5.08)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -7.62 90)
+				(length 5.08)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "R0402_1K_1%_0.0625W_100PPM"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 3.81 1.778 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -1.778 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "RESC1005X40N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor - 1%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "R0402_1K_1%_0.0625W_100PPM"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "RESC1005X40N"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1k"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "Not recommended"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.0625W"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TC" "±100ppm/°C"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "General Purpose Thick Film Chip Resistor"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GENERIC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "R0402_1K_1%_0.0625W_100PPM"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0402"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "YAGEO PHYCOMP"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "232270671002L"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "0.4mm"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}R0402_Phycomp_RC0402.pdf"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "03.12.2007"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "17.10.2012"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Resistors SMD"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*RESC1005X40N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "R0402_1K_1%_0.0625W_100PPM_1_0"
+			(polyline
+				(pts
+					(xy 1.524 -0.762) (xy 6.096 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.524 0.762) (xy 1.524 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -0.762) (xy 6.096 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 0.762) (xy 1.524 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "1%"
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 0.9144 0.9144)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 1.524)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 1.524)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "R0402_1K_1%_0.0625W_100PPM_1"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 3.81 1.778 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -2.032 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "RESC1005X40N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor - 1%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "R0402_0R"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "RESC1005X40N"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "0"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "Not recommended"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.0625W"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TC" "±100ppm/°C"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "General Purpose Thick Film Chip Resistor"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GENERIC"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "R0402_0R"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0402"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "YAGEO PHYCOMP"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "232270671002L"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "0.4mm"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}R0402_Phycomp_RC0402.pdf"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "03.12.2007"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "17.10.2012"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Resistors SMD"
+			(at -0.508 1.016 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*RESC1005X40N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "R0402_1K_1%_0.0625W_100PPM_1_1_0"
+			(polyline
+				(pts
+					(xy 1.524 -0.762) (xy 6.096 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.524 0.762) (xy 1.524 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -0.762) (xy 6.096 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 0.762) (xy 1.524 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "1%"
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 0.9144 0.9144)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 1.524)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 1.524)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "R0402_5K1_1%_0.0625W_100PPM"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 3.81 1.778 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -1.778 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "RESC1005X40N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor - 1%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "R0402_5K1_1%_0.0625W_100PPM"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "RESC1005X40N"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "5k1"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "Not recommended"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.0625W"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TC" "±100ppm/°C"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "General Purpose Thick Film Chip Resistor"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GENERIC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "R0402_5K1_1%_0.0625W_100PPM"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0402"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "YAGEO PHYCOMP"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "232270675102L"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "0.4mm"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}R0402_Phycomp_RC0402.pdf"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "03.12.2007"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "17.10.2012"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Resistors SMD"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*RESC1005X40N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "R0402_5K1_1%_0.0625W_100PPM_1_0"
+			(polyline
+				(pts
+					(xy 1.524 -0.762) (xy 6.096 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.524 0.762) (xy 1.524 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -0.762) (xy 6.096 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 0.762) (xy 1.524 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "1%"
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 0.9144 0.9144)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 1.524)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 1.524)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "R0805_91R_1%_0.125W_100PPM"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 3.81 1.778 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -1.778 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "RESC2012X60N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor - 1%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "R0805_91R_1%_0.125W_100PPM"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "RESC2012X60N"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "91"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "Preferred"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.125W"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TC" "±100ppm/°C"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "General Purpose Thick Film Chip Resistor"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GENERIC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "R0805_91R_1%_0.125W_100PPM"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "0805"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "NIC COMPONENT"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "NRC10F91R0TRF"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "0.6mm"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}R0805_NIC_NRC.pdf"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "03.12.2007"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "13.03.2008"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Resistors SMD"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*RESC2012X60N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "R0805_91R_1%_0.125W_100PPM_1_0"
+			(polyline
+				(pts
+					(xy 1.524 -0.762) (xy 6.096 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.524 0.762) (xy 1.524 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -0.762) (xy 6.096 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 0.762) (xy 1.524 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "1%"
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 0.9144 0.9144)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 1.524)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 1.524)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "R1206_NO-VALUE"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 3.81 1.778 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${VALUE}"
+			(at 3.81 -1.778 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+			)
+		)
+		(property "Footprint" "RESC3216X65N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "R1206_NO-VALUE"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "RESC3216X65N"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "0.1"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Status" "None"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "Reserved Footprint For a 1206 (3216) Chip Resistor"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Undefined"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "R1206_NO-VALUE"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "1206"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "No"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Example" "Undefined"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 Part Number" "Undefined"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer1 ComponentHeight" "0.65mm"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "Undefined"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "03.12.2007"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "13.03.2008"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Resistors SMD"
+			(at -0.508 3.048 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*RESC3216X65N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "R1206_NO-VALUE_1_0"
+			(polyline
+				(pts
+					(xy 1.524 -0.762) (xy 6.096 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.524 0.762) (xy 1.524 -0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -0.762) (xy 6.096 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 0.762) (xy 1.524 0.762)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 0 0)
+				(length 1.524)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 1.524)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "RK09D1110C0R"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "B"
+			(at 5.08 2.54 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "RK09D1110C0R"
+			(at 5.588 -10.668 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:RK09D1110C0R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Alps Potentiometer RK09D Series with a 6 mm Dia. Shaft 50k +/-20% 0.05W, Linear, Through Hole"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ALPS Electric"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK09D1110C0R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "688-RK09D1110C0R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09D1110C0R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet Link" "https://datasheet.lcsc.com/szlcsc/1812241533_ALPS-Electric-RK09D1110C0R_C351243.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Geometry.Height" "15.5mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*RK09D1110C0R*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "RK09D1110C0R_1_0"
+			(rectangle
+				(start 22.86 2.54)
+				(end 5.08 -7.62)
+				(stroke
+					(width 0.254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at 27.94 -5.08 180)
+				(length 5.08)
+				(name "CCW"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 -2.54 180)
+				(length 5.08)
+				(name "WIPER"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 0 180)
+				(length 5.08)
+				(name "CW"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -2.54 0)
+				(length 5.08)
+				(name "Shield"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MH"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "SM12T1G"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at -0.254 0.254 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "SM12T1G"
+			(at -0.254 -13.462 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ONSC-SOT-23-3-318-08_V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transient Voltage Suppressor Diode Array, Dual Common Anode Diodes for ESD Protection, 3-Pin SOT-23, Pb-Free, Tape and Reel"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1Description" "Manufacturer URL"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Direction" "Unidirectional"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2Description" "Datasheet"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PPK Max (W)" "300"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink3Description" "Package Specification"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounting Technology" "Surface Mount"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink3URL" "http://www.onsemi.cn/pub_link/Collateral/318-08.PDF"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DatasheetVersion" "Rev. 6"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1URL" "http://www.onsemi.com/"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "SM12T1G"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "IR Max (uA)" "1"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Packing" "Tape and Reel"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageVersion" "Rev. AP, 11/2009"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "On Semiconductor"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2URL" "http://www.onsemi.com/pub_link/Collateral/SM12T1-D.PDF"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Pb-Free"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageReference" "SOT-23-3-318-08"
+			(at -5.588 0.254 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*ONSC-SOT-23-3-318-08_V*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SM12T1G_1_0"
+			(polyline
+				(pts
+					(xy 2.54 -10.16) (xy 5.08 -7.62) (xy 2.54 -5.08) (xy 2.54 -10.16)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -5.08) (xy 5.08 -2.54) (xy 2.54 0) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54) (xy 0 -2.54) (xy 0 -7.62) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 -10.16) (xy 5.08 -9.144) (xy 5.08 -6.096) (xy 6.096 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 -5.08) (xy 5.08 -4.064) (xy 5.08 -1.016) (xy 6.096 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 10.16 -2.54 180)
+				(length 5.08)
+				(name "K1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -7.62 180)
+				(length 5.08)
+				(name "K2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -5.08 0)
+				(length 5.08)
+				(name "A"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "TL431IDBZT"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "IC"
+			(at 2.54 2.54 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${DEVICE}"
+			(at 5.08 -7.62 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SOT95P237X112-3N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Precision Reference 1=Cathode 2=Adj 3=Anode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "TL431IDBZT"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Kind" "Standard"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Standard"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Device" "TL431IDBZT"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint_1" "SOT95P237X112-3N"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PackageDescription" "SOT, 0.95mm, pitch; 3 pin,1.30mm W X 2.92mm L X 1.12mm H body, IPC Medium Density"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "Vref (2.495V) To 36V 2% Precision Programmable Reference"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TL431IDBZT"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Case" "SOT-23"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mounted" "Yes"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Socket" "No"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SMD" "Yes"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentHeight" "1.12mm"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "HelpURL" "~{\\}cern.c~{h}df~{s}Application~{s}Altiu~{m}Datasheet~{s}TL431IDBZT.pdf"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "CERN DEM JLC"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CreateDate" "23.04.2012"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LatestRevisionDate" "23.04.2012"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Table" "Regulators"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*SOT95P237X112-3N*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TL431IDBZT_1_0"
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 5.08 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.302 -1.524) (xy 2.794 -1.016)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.302 -1.524) (xy 3.302 -3.556)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -4.064) (xy 3.302 -3.556)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.778 -4.064) (xy 3.302 -2.54) (xy 1.778 -1.016) (xy 1.778 -4.064)
+				)
+				(stroke
+					(width -0.0001)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 5.08 0)
+				(end 0 -5.08)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at 10.16 -2.54 180)
+				(length 5.08)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 -7.62 90)
+				(length 3.81)
+				(name "Adj"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "A"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "Trans_Diodes_ZXTP720MATA_eec"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "Q"
+			(at 0.762 1.016 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "ZXTP720MATA"
+			(at 0.762 -2.032 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "reg-altium-imported:Diodes_DFN2020B-3_0"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TRANS PNP 40V 3A 3-DFN"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "ZXTP720MATA"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "helpURL" "https://upverter.com/upn/revision/011e687e67c53b93/"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2Description" "Datasheet"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "-55°C to +150°C"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "DFN2020B-3"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" "Mouser"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.335670922874"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digi-Key"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1URL" "https://upverter.com/upn/revision/011e687e67c53b93/"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number 2" "621-ZXTP720MATA"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number 1" "ZXTP720MATACT-ND"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40V"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1Description" "Upverter"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2URL" "https://www.diodes.com/assets/Datasheets/ZXTP720MA.pdf"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "TRUE"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "621-ZXTP720MATA"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature Range High" "+150°C"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Description" "TRANS PNP 40V 3A 3-DFN"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "ZXTP720MATACT-ND"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Lead Free" "yes"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mfg Package Ident" "DFN2020B-3"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature Range Low" "-55°C"
+			(at -8.128 8.128 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*Diodes_DFN2020B-3_0*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Trans_Diodes_ZXTP720MATA_eec_1_0"
+			(polyline
+				(pts
+					(xy -2.54 -1.27) (xy 0 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 0) (xy -3.302 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 1.27) (xy -1.524 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 1.27) (xy -1.016 1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 2.54) (xy -2.54 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.286 1.524) (xy 0 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.524 2.54) (xy -1.016 1.524)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 0 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy 0 3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -7.62 0 0)
+				(length 5.08)
+				(name "B"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 7.62 270)
+				(length 5.08)
+				(name "E"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -7.62 90)
+				(length 5.08)
+				(name "C"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "USB4105-GF-A"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at -17.78 -86.36 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "USB4105-GF-A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "GCT_0_MFG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB - C (Type - C) USB 2.0 Receptacle Connector 24 Position Surface Mount, Right Angle; Through Hole"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet Path" "datasheets/Conn_GCT_USB4105-GF-A_eec.pdf"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Automotive" "No"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1Description" "Upverter"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink1URL" "https://upverter.com/part/id/a7025d547e052da0/"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2Description" "Datasheet"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ComponentLink2URL" "https://gct.co/files/drawings/usb4105.pdf"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Conn Orientation" "Right Angle"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Contact Material" "Gold,Nickel"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Current Rating" "5/6.25/1.25/0.25A"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Description" "CONN RCPT USB2.0 TYPEC 5A"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "2073-USB4105-GF-ACT-ND"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Height" "3.46mm"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Is Female" "yes"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Lead Free" "Yes"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Number Of Contacts" "16"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "0"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "USB4105-GF-A"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "TRUE"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digi-Key"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" "Mouser"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number 1" "2073-USB4105-GF-ACT-ND"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Symbol Hash" "e7c17a616881a82b79941196b4bec104b495fb9ac69170b0941b64e78b4c2a49"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "-40°C to +85°C"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature Range High" "+85°C"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Temperature Range Low" "-40°C"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Usb Standard" "USB 2.0"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Verification Version" "0.0.0.3"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "20V"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "helpURL" "https://upverter.com/part/id/a7025d547e052da0/"
+			(at -17.78 5.08 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*GCT_0_MFG*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "USB4105-GF-A_1_0"
+			(circle
+				(center -11.43 -78.74)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -73.66)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -68.58)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -63.5)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -55.88)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -50.8)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -45.72)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -40.64)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -35.56)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -30.48)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -25.4)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -20.32)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -15.24)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -10.16)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 -5.08)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -11.43 0)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -5.08 5.08)
+				(end -17.78 -83.82)
+				(stroke
+					(width 0.254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -78.74) (xy -5.08 -78.74)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -73.66) (xy -5.08 -73.66)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -68.58) (xy -5.08 -68.58)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -63.5) (xy -5.08 -63.5)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -55.88) (xy -5.08 -55.88)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -50.8) (xy -5.08 -50.8)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -45.72) (xy -5.08 -45.72)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -40.64) (xy -5.08 -40.64)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -35.56) (xy -5.08 -35.56)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -30.48) (xy -5.08 -30.48)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -25.4) (xy -5.08 -25.4)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -20.32) (xy -5.08 -20.32)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -15.24) (xy -5.08 -15.24)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -10.16) (xy -5.08 -10.16)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 -5.08) (xy -5.08 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -10.668 0) (xy -5.08 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "CC1"
+				(at -6.858 -7.112 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "CC2"
+				(at -6.858 -37.592 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "Dn1"
+				(at -6.858 -17.272 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "Dn2"
+				(at -6.858 -47.752 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "Dp1"
+				(at -6.858 -12.192 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "Dp2"
+				(at -6.858 -42.672 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "GND"
+				(at -6.858 -27.432 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "GND"
+				(at -6.858 3.048 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "MNT 1"
+				(at -6.858 -60.452 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "MNT 2"
+				(at -6.858 -65.532 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "MNT 3"
+				(at -6.858 -70.612 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "MNT 4"
+				(at -6.858 -75.692 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "SBU1"
+				(at -6.858 -22.352 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "SBU2"
+				(at -6.858 -52.832 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "VBUS"
+				(at -6.858 -32.512 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(text "VBUS"
+				(at -6.858 -2.032 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify right top)
+				)
+			)
+			(pin power_in line
+				(at 0 -63.5 180)
+				(length 5.08)
+				(name "MNT_1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -68.58 180)
+				(length 5.08)
+				(name "MNT_2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -73.66 180)
+				(length 5.08)
+				(name "MNT_3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -78.74 180)
+				(length 5.08)
+				(name "MNT_4"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 0 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "A1-B12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -5.08 180)
+				(length 5.08)
+				(name "VBUS"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "A4-B9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -10.16 180)
+				(length 5.08)
+				(name "CC1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "A5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -15.24 180)
+				(length 5.08)
+				(name "Dp1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "A6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -20.32 180)
+				(length 5.08)
+				(name "Dn1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "A7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -25.4 180)
+				(length 5.08)
+				(name "SBU1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "A8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -30.48 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "B1-A12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -35.56 180)
+				(length 5.08)
+				(name "VBUS"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "B4-A9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -40.64 180)
+				(length 5.08)
+				(name "CC2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "B5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -45.72 180)
+				(length 5.08)
+				(name "Dp2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "B6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 0 -50.8 180)
+				(length 5.08)
+				(name "Dn2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "B7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -55.88 180)
+				(length 5.08)
+				(name "SBU2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "B8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "WH-3R (Altium Display 1)"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 5.08 -12.7 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${FAMILY}"
+			(at 3.81 -0.762 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "WH-3R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Connector 3 Male"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "WH-3R"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*WH-3R*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "WH-3R (Altium Display 1)_1_0"
+			(polyline
+				(pts
+					(xy 0 -7.62) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -5.08) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -7.62) (xy 2.54 -7.62)
+				)
+				(stroke
+					(width 0.508)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -5.08) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0.508)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -2.54) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.508)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 7.62 0)
+				(end 0 -10.16)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -5.08 -5.08 0)
+				(length 5.08)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "WH-3R (Altium Display 2)"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 5.08 -12.7 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "${FAMILY}"
+			(at 3.81 -0.762 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "WH-3R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Connector 3 Male"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "WH-3R"
+			(at -5.588 0 0)
+			(effects
+				(font
+					(size 2.1844 2.1844)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*WH-3R*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "WH-3R (Altium Display 2)_1_0"
+			(polyline
+				(pts
+					(xy 0 -7.62) (xy 1.524 -7.62)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -5.08) (xy 1.524 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 1.524 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 -7.62)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 2.286 -5.08)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 2.286 -2.54)
+				(radius 0.762)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 7.62 0)
+				(end 0 -10.16)
+				(stroke
+					(width 0.0254)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -2.54 0)
+				(length 5.08)
+				(name "1"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -5.08 0)
+				(length 5.08)
+				(name "2"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "3"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+)
